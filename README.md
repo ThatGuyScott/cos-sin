@@ -1,2 +1,4 @@
 # cos-sin
-HTML Canvas Math example using cos &amp; sin functions
+Cos/Sin Math example using html canvas.
+
+demo: https://thatguyscott.github.io/cos-sin/dist/index.html
