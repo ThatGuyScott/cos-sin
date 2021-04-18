@@ -39,7 +39,6 @@ export class AppComponent implements OnInit {
   wave_add_interval = 3;
   wave_add_counter = 0;
 
-
   ngOnInit() {
     this.ctx = this.canvas.nativeElement.getContext('2d');
 
