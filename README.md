@@ -1,7 +1,7 @@
 # cos-sin
 Cos/Sin Math animation using Angular & html canvas.
 
-demo: https://thatguyscott.github.io/cos-sin/dist/index.html
+demo: https://that-guy-scott.github.io/cos-sin/dist/index.html
 
 ![Demo img](demo.png)
 
